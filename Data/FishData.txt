@@ -1,0 +1,7 @@
+Objective: To predict the length of a species of Fish
+There are 44 rows
+Columns are
+1. Index
+2. Age - Age of Fish in days
+3. Temp_water - Temperature of water in Celsius
+4. Length 
